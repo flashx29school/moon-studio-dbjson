@@ -1,0 +1,138 @@
+{
+  "prices": [
+    {
+      "category": "Sprâncene",
+      "services": [
+        {
+          "title": "Laminare Sprâncene",
+          "price": "80"
+        },
+        {
+          "title": "Vopsit, laminare și tratament botox",
+          "price": "120"
+        }
+      ]
+    },
+    {
+      "category": "Gene",
+      "services": [
+        {
+          "title": "Laminare Gene",
+          "price": "80"
+        },
+        {
+          "title": "Vopsit, laminare și tratament botox",
+          "price": "110"
+        }
+      ]
+    },
+    {
+      "category": "Epilare Permanenta",
+      "fullCol": true,
+      "services": [
+        {
+          "title": "Picioare Lung",
+          "price": "270"
+        },
+        {
+          "title": "Picioare Scurt",
+          "price": "170"
+        },
+        {
+          "title": "Braţe Lung",
+          "price": "230"
+        },
+        {
+          "title": "Braţe Scurt",
+          "price": "150"
+        },
+        {
+          "title": "Abdomen",
+          "price": "80"
+        },
+        {
+          "title": "Spate",
+          "price": "80"
+        },
+        {
+          "title": "Fese",
+          "price": "60"
+        },
+        {
+          "title": "Inghinal Total",
+          "price": "200"
+        },
+        {
+          "title": "Linie Bikini",
+          "price": "100"
+        },
+        {
+          "title": "Axila",
+          "price": "80"
+        },
+        {
+          "title": "Mustaţă",
+          "price": "40"
+        },
+        {
+          "title": "Faţă Total",
+          "price": "70"
+        },
+        {
+          "title": "Hollywood Facial",
+          "price": "250"
+        },
+        {
+          "title": "Full Body",
+          "price": "800"
+        }
+      ]
+    },
+    {
+      "category": "Îndepărtare tatuaje",
+      "tattoos": "Îndepărtarea tatuajelor depinde de mărime. Vă rugăm să ne contactaţi pentru informaţii și preţuri.",
+      "services": [
+        {
+          "title": "Îndepărtare Permanent Make-up (buze, sprâncene, eyeliner)",
+          "price": "200"
+        }
+      ]
+    }
+  ],
+  "best-sellers": {
+    "en": [
+      {
+        "img": "facial-mask.jpeg",
+        "title": "Facial Treatment",
+        "description": "Tailored anti-aging treatment with aromas, massage, exfoliation, masks, and oxygen infusion for radiant, clear, and hydrated skin."
+      },
+      {
+        "img": "lips.jpeg",
+        "title": "Lip Blush",
+        "description": "A sought-after semi-permanent technique, enhancing lips with color and shape for a naturally fuller appearance."
+      },
+      {
+        "img": "epilare-permanenta.jpeg",
+        "title": "Laser Hair Removal",
+        "description": "Minimally invasive treatment, safe for sensitive skin, featuring cooling tech. Removes hair and aids ingrown hair issues, even in deep tones."
+      }
+    ],
+    "ro": [
+      {
+        "img": "facial-mask.jpeg",
+        "title": "Tratament Facial",
+        "description": "Tratament personalizat anti-îmbătrânire cu arome, masaj, exfoliere, măști și infuzie de oxigen pentru o piele strălucitoare, clară și hidratată."
+      },
+      {
+        "img": "lips.jpeg",
+        "title": "Buze",
+        "description": "O tehnică semi-permanentă căutată, care îmbunătățește buzele cu culoare și formă pentru un aspect natural mai plin."
+      },
+      {
+        "img": "epilare-permanenta.jpeg",
+        "title": "Îndepărtare Laser a Părului",
+        "description": "Tratament minim invaziv, potrivit pentru pielea sensibilă, cu tehnologie de răcire. Elimină părul și ajută la problemele cu firele de păr crescute în piele."
+      }
+    ]
+  }
+}
