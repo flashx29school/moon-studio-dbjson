@@ -135,7 +135,31 @@
         {
           "title": "Zona abdomen",
           "price": "1300"
-        }
+        },
+        {
+          "title": "Zona spate acneic",
+          "price": "2000"
+           },
+        {
+          "title": "Xantelasme",
+          "price": "40-100"
+           },
+        {
+          "title": "Papiloame",
+          "price": "40-100"
+           },
+        {
+          "title": "Veruci",
+          "price": "50"
+           },
+        {
+          "title": "Puncte grasime",
+          "price": "20-50"
+           },
+        {
+          "title": "Angioame",
+          "price": "20-50"
+          }
       ]
     },
     {
