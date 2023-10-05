@@ -165,10 +165,18 @@
     {
       "category": "Îndepărtare tatuaje",
       "tattoos": "Îndepărtarea tatuajelor depinde de mărime. Vă rugăm să ne contactaţi pentru informaţii și preţuri.",
+      "fullCol": true,
       "services": [
         {
           "title": "Îndepărtare Permanent Make-up (buze, sprâncene, eyeliner)",
           "price": "200"
+    },
+    {
+      "category": "Hyaluron Pen",
+      "services": [
+        {
+          "title": "Microneedling + Mezoterapie",
+          "price": "680"
         }
       ]
     }
