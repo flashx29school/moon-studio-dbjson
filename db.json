@@ -164,10 +164,10 @@
         },
         {
             "category": "Îndepărtare tatuaje",
-            "hint": "Îndepărtarea tatuajelor depinde de mărime. Vă rugăm să ne contactaţi pentru informaţii și preţuri.",
             "services": [
                 {
                     "title": "Îndepărtare Permanent Make-up (buze, sprâncene, eyeliner)",
+                    "hint": "Îndepărtarea tatuajelor depinde de mărime. Vă rugăm să ne contactaţi pentru informaţii și preţuri.",
                     "price": "200"
                 }
             ]
