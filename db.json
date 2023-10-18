@@ -167,7 +167,7 @@
             "services": [
                 {
                     "title": "Îndepărtare Permanent Make-up (buze, sprâncene, eyeliner)",
-                    "hint": "Îndepărtarea tatuajelor depinde de mărime. Vă rugăm să ne contactaţi pentru informaţii și preţuri.",
+                    "hint": "Îndepărtarea tatuajelor corporale depinde de mărime. Vă rugăm să ne contactaţi pentru a programa o consultație gratuită.",
                     "price": "200"
                 }
             ]
@@ -183,10 +183,14 @@
             ]
         },
         {
-            "category": "Tratare venectazii",
+            "category": "Laser Vase Capilare",
             "services": [
                 {
-                    "title": "Tratare venectazii / vase sparte",
+                    "title": "Rozacee",
+                    "price": "500"
+                }, 
+                {
+                    "title": "Tratare venectazii",
                     "hint": "Tratarea venectaziilor depinde de mărime. Vă rugăm să ne contactaţi pentru a programa o consultație gratuită."
                 }
             ]
