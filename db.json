@@ -181,6 +181,15 @@
                     "price": "680"
                 }
             ]
+        },
+        {
+            "category": "Tratare venectazii",
+            "services": [
+                {
+                    "title": "Tratare venectazii / vase sparte",
+                    "hint": "Tratarea venectaziilor depinde de mărime. Vă rugăm să ne contactaţi pentru a programa o consultație gratuită.",
+                }
+            ]
         }
     ],
     "best-sellers": {
