@@ -394,41 +394,5 @@
                 ]
             }
         ]
-    },
-    "best-sellers": {
-        "en": [
-            {
-                "img": "facial-mask.jpeg",
-                "title": "Facial Treatment",
-                "description": "Tailored anti-aging treatment with aromas, massage, exfoliation, masks, and oxygen infusion for radiant, clear, and hydrated skin."
-            },
-            {
-                "img": "lips.jpeg",
-                "title": "Lip Blush",
-                "description": "A sought-after semi-permanent technique, enhancing lips with color and shape for a naturally fuller appearance."
-            },
-            {
-                "img": "epilare-permanenta.jpeg",
-                "title": "Laser Hair Removal",
-                "description": "Minimally invasive treatment, safe for sensitive skin, featuring cooling tech. Removes hair and aids ingrown hair issues, even in deep tones."
-            }
-        ],
-        "ro": [
-            {
-                "img": "facial-mask.jpeg",
-                "title": "Tratament Facial",
-                "description": "Tratament personalizat anti-îmbătrânire cu arome, masaj, exfoliere, măști și infuzie de oxigen pentru o piele strălucitoare, clară și hidratată."
-            },
-            {
-                "img": "lips.jpeg",
-                "title": "Buze",
-                "description": "O tehnică semi-permanentă căutată, care îmbunătățește buzele cu culoare și formă pentru un aspect natural mai plin."
-            },
-            {
-                "img": "epilare-permanenta.jpeg",
-                "title": "Îndepărtare Laser a Părului",
-                "description": "Tratament minim invaziv, potrivit pentru pielea sensibilă, cu tehnologie de răcire. Elimină părul și ajută la problemele cu firele de păr crescute în piele."
-            }
-        ]
     }
 }
